@@ -4,6 +4,8 @@
 
 ###  Control Flow Graph
 ![checkCard](https://github.com/user-attachments/assets/62437577-78cd-4979-b384-b3df2416a009)
+![checkCard](https://github.com/user-attachments/assets/a5965c78-e34c-4469-a8a9-3c23c0b213b4)
+
 
 ### Цикломатска комплексност
 I Начин 
