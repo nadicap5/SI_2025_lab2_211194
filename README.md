@@ -3,9 +3,7 @@
 ## Надица Петковска, бр. на индекс 211194
 
 ###  Control Flow Graph
-![checkCard](https://github.com/user-attachments/assets/62437577-78cd-4979-b384-b3df2416a009)
 ![checkCard](https://github.com/user-attachments/assets/a5965c78-e34c-4469-a8a9-3c23c0b213b4)
-
 
 ### Цикломатска комплексност
 I Начин 
@@ -44,6 +42,8 @@ N е бројот на јазли во графот = 26.<br>
 
 **True|X|X:** [item.getPrice() = 350; item.getDiscount() = 0.5; item.getQuantity() = 5 <br>
 350 > 300 ќе врати точно, бидејќи во if условот имаме "||" или логичко "ИЛИ", доколку еден од условите е исполнет, останатите воопшто нема да се проверат.<br>
+
+
 
 
 
